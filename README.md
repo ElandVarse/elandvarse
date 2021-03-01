@@ -1,16 +1,14 @@
-### Hi there 👋
+# Sup fren, I'm Andre! 😊
 
-<!--
-**ElandVarse/elandvarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+I'm currently a frontend and mobile developer searching to become a fullstack professional. I also like to draw, play guitar and create in general. In the moment waiting for winds of winter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning vue/ laravel
+- 👯 I’m looking to collaborate on ANYTHING!
+- 🤔 I’m looking for help with ANYTHING!
+- 📫 You can find me in: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elandvarse/)](https://www.linkedin.com/in/elandvarse/)
+- 😄 Pronouns: He/ they
+- ⚡ Fun fact: I never cry more than 2 hours when doing an animation
+
+![meme](https://i.imgur.com/QUTw7vq.gif)
