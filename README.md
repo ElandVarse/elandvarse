@@ -6,7 +6,7 @@ I'm currently a frontend and mobile developer searching to become a fullstack pr
 <br />
 <br />
 
-- 🌱 I’m currently learning vue/ laravel 
+- 🌱 Currently learning vue/ laravel 
 - 👯 I’m looking to collaborate on ANYTHING!
 - 🤔 I’m looking for help with ANYTHING! 
 - 📫 You can find me in: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elandvarse/)](https://www.linkedin.com/in/elandvarse/)
