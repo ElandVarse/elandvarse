@@ -12,5 +12,10 @@ I'm currently a frontend and mobile developer searching to become a fullstack pr
 - 📫 You can find me in: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elandvarse/)](https://www.linkedin.com/in/elandvarse/)
 - ⚡ Fun fact: I never cry more than 2 hours when doing an animation
 
+
+<br />
+<br />
+<br />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElandVarse)](https://github.com/anuraghazra/github-readme-stats)
 
