@@ -15,12 +15,9 @@ I'm currently a frontend and mobile developer searching to become a fullstack pr
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elandvarse/) 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo)](https://api.whatsapp.com/send?phone=5577988665678)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ElandVarse)
-[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.jobs23@gmail.com")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.jobs23@gmail.com")
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElandVarse&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<br/>
 
 ## Stack: 
 
@@ -38,3 +35,7 @@ I'm currently a frontend and mobile developer searching to become a fullstack pr
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElandVarse&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
