@@ -4,6 +4,7 @@
 <img align="right" width="260" height="260" src="https://i.imgur.com/QUTw7vq.gif">
 I'm currently a frontend and mobile developer searching to become a fullstack professional. I also like to draw, play guitar and create in general. In the moment waiting for winds of winter. 
 
+
 <br />
 <br />
 
@@ -47,7 +48,7 @@ I'm currently a frontend and mobile developer searching to become a fullstack pr
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElandVarse&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elandvarse/) 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo)](https://api.whatsapp.com/send?phone=5577988665678)
