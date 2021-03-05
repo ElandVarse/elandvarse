@@ -6,6 +6,7 @@ I'm currently a frontend and mobile developer searching to become a fullstack pr
 
 <br />
 <br />
+<br />
 
 
 - 💻 Linux (Since 2019)
