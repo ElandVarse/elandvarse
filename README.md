@@ -14,9 +14,12 @@ I'm currently a frontend and mobile developer searching to become a fullstack pr
 - 💪 I’m looking to help with anything! 
 - ⚡ Fun fact: I never cry more than 2 hours when doing an animation
 
+
+<br />
 <br />
 
-### Stack
+
+## Stack
 
 <br />
 
