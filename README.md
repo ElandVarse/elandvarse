@@ -10,7 +10,7 @@ I'm a frontend and mobile developer searching to become a fullstack professional
 
 
 - 💻 Linux (Since 2019)
-- 🌱 Currently learning vue/ laravel / kotlin
+- 🌱 Currently learning Angular
 - 👯 I’m looking to collaborate on anything!
 - 💪 I’m looking to help with anything! 
 - ⚡ Fun fact: I never cry more than 2 hours when doing an animation
