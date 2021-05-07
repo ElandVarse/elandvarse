@@ -43,7 +43,7 @@ I'm a frontend and mobile developer searching to become a fullstack professional
 ###
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElandVarse&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElandVarse&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElandVarse&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElandVarse&theme=radical)]
 
 
 ## Contact 📬
