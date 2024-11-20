@@ -10,7 +10,7 @@ I'm a frontend developer searching to become a fullstack professional. I also li
 
 
 - 💻 Linux (Since 2019)
-- 🌱 Currently learning Authentication
+- 🌱 Currently developing Apps with React Native
 - 👯 I’m looking to collaborate on anything!
 - 💪 I’m looking to help with anything! 
 - ⚡ Fun fact: I never cry more than 2 hours when doing an animation
