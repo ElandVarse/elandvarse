@@ -1,4 +1,4 @@
-# Sup fren, I'm Andre! 😊
+# Hi Folks, I'm Andre! 😊
 
 <img align="right" width="260" height="260" src="https://i.imgur.com/QUTw7vq.gif">
 I'm a frontend developer searching to become a fullstack professional. I also like to draw, play guitar and create in general. In the moment waiting for winds of winter. 
