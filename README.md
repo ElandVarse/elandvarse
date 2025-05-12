@@ -8,12 +8,17 @@ I'm a frontend developer searching to become a fullstack professional. I also li
 <br />
 <br />
 
+🎥 **YouTuber Aspirant -** [@pereira-andre](https://www.youtube.com/@pereira-andre) 
 
-- 💻 Linux (Since 2019)
-- 🌱 Currently developing Apps with React Native
-- 👯 I’m looking to collaborate on anything!
-- 💪 I’m looking to help with anything! 
-- ⚡ Fun fact: I never cry more than 2 hours when doing an animation
+💻 **Linux user since 2019**
+
+🌱 **Currently developing anything I can develop**
+
+👯 **Looking to collaborate on projects that inspire me!**
+
+💪 **Focused on learning and improving every day**
+
+⚡ **Fun fact:** When I'm not coding, I'm under a truck 🚚 🔧
 
 
 <br />
