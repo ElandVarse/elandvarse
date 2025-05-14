@@ -1,12 +1,12 @@
 # Hi Folks, I'm Andre! 😊
 
 <img align="right" width="260" height="260" src="https://i.imgur.com/QUTw7vq.gif">
-I'm a frontend developer searching to become a fullstack professional. I also like to draw, play guitar and create in general. In the moment waiting for winds of winter. 
+I'm a Front-End Developer who sometimes moonlights as a Back-End Developer
 
-
-<br />
-<br />
-<br />
+<br/> Basically, I break stuff on both sides and then fix it beautifully. 
+<br/> I like to draw, play guitar and building things — from pixel-perfect interfaces to questionable side projects. 
+<br/><br/> In the moment waiting for The Winds of Winter. 
+<br/><br/>
 
 🎥 **YouTuber Aspirant -** [@pereira-andre](https://www.youtube.com/@pereira-andre) 
 
@@ -19,7 +19,11 @@ I'm a frontend developer searching to become a fullstack professional. I also li
 💪 **Focused on learning and improving every day**
 
 ⚡ **Fun fact:** When I'm not coding, I'm under a truck 🚚 🔧
+<br/><br/>
 
+## Currently Working on my Portfolio and a bunch of stuff:
+
+![Portfolio](/assets/clouds-and-dino.gif)
 
 <br />
 <br />
@@ -58,3 +62,4 @@ I'm a frontend developer searching to become a fullstack professional. I also li
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ElandVarse)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.jobs23@gmail.com")
 
+### Check out my [repositories](https://github.com/ElandVarse?tab=repositories) if you dare 😎
