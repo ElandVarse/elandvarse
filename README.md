@@ -25,13 +25,9 @@ I'm a Front-End Developer who sometimes moonlights as a Back-End Developer
 
 ![Portfolio](/assets/clouds-and-dino.gif)
 
-<br />
-<br />
-
 
 ## Stack
 
-<br />
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,9 +43,7 @@ I'm a Front-End Developer who sometimes moonlights as a Back-End Developer
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 
-<br/>
-
-###
+<br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElandVarse&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElandVarse&theme=radical)]
