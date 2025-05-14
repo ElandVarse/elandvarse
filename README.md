@@ -3,7 +3,7 @@
 <img align="right" width="260" height="260" src="https://i.imgur.com/QUTw7vq.gif">
 I'm a Front-End Developer who sometimes moonlights as a Back-End Developer
 
-<br/> Basically, I break stuff on both sides and then fix it beautifully. 
+<br/> Basically, I break stuff on both sides and then fix it. 
 <br/> I like to draw, play guitar and building things — from pixel-perfect interfaces to questionable side projects. 
 <br/><br/> In the moment waiting for The Winds of Winter. 
 <br/><br/>
@@ -12,13 +12,9 @@ I'm a Front-End Developer who sometimes moonlights as a Back-End Developer
 
 💻 **Linux user since 2019**
 
-🌱 **Currently developing anything I can develop**
-
-👯 **Looking to collaborate on projects that inspire me!**
-
 💪 **Focused on learning and improving every day**
 
-⚡ **Fun fact:** When I'm not coding, I'm under a truck 🚚 🔧
+⚡ **Fun fact: When I'm not coding, I'm under a truck 🚚 🔧**
 <br/><br/>
 
 ## Currently Working on my Portfolio and a bunch of stuff:
