@@ -2,8 +2,8 @@
 
 <img align="right" width="260" height="260" src="https://i.imgur.com/QUTw7vq.gif">
 I'm a Front-End Developer who sometimes moonlights as a Back-End Developer
+Basically, I break stuff on both sides and then fix it. 
 
-<br/> Basically, I break stuff on both sides and then fix it. 
 <br/> I like to draw, play guitar and building things — from pixel-perfect interfaces to questionable side projects. 
 <br/><br/> In the moment waiting for The Winds of Winter. 
 <br/><br/>
